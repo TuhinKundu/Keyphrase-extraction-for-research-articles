@@ -1,7 +1,7 @@
 # Keyphrase-extraction-for-research-articles
 
 Model for extracting and ranking keyphrases from research articles using an unsupervised theme and position biased-PageRank
-model. Part of Deep learning for NLP course in Fall 19 semester at the University of Illinois at Chicago.
+graph. Part of Deep learning for NLP course in Fall 19 semester at the University of Illinois at Chicago.
 
 ### Requirements:
 * Numpy
