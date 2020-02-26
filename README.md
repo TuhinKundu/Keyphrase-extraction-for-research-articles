@@ -5,6 +5,6 @@ model. Part of Deep learning for NLP course in Fall 19 semester at the Universit
 
 ### Requirements:
 * Numpy
-* [StanfordCoreNLP] (https://stanfordnlp.github.io/CoreNLP/)
+* [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 * [fastText embeddings](https://fasttext.cc/docs/en/english-vectors.html)
   > Embeddings used: wiki-news-300d-1M-subword.vec.zip. 1 million word vectors trained with subword infomation on Wikipedia 2017, UMBC webbase corpus and statmt.org news dataset (16B tokens). T. Mikolov, E. Grave, P. Bojanowski, C. Puhrsch, A. Joulin. Advances in Pre-Training Distributed Word Representations, LREC 2018
