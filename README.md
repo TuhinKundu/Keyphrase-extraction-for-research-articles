@@ -25,4 +25,4 @@ Keyphrase extraction enables faster processing by mapping multiword phrases to a
 
 * PositionRank: Corina Florescu and Cornelia Caragea. "PositionRank: An Unsupervised Approach to Keyphrase Extraction from Scholarly Documents." In: Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL 2017)
 * Key2vec: Debanjan Mahata, John Kuriakose, Rajiv Ratn Shah, Roger Zimmermann. "Key2Vec: Automatic Ranked Keyphrase Extraction from Scientific Articles using Phrase Embeddings." In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)
-
+* Ideas for PositionRank implementation: https://github.com/ymym3412/position-rank
